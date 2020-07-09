@@ -7,10 +7,10 @@ function searchFunction() {
     for (let i = 0; i < images.length; i ++) {
         let data = images[i];
         caption = data.getAttribute('data-title').toLowerCase();
-    } if (caption.includes(input)) {
-        images.style.display = '';
+     if (caption.includes(input)) {
+        images[i].style.display = '';
     } else {
-        images.style.display = 'none';
+        images[i].style.display = 'none';
+        }
     }
 }
-
