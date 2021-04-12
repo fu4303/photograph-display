@@ -6,7 +6,7 @@ On this solo project for my Treehouse tech degree, I was given a design and brie
 
 Using the search bar, the user can search through the images based on the caption name of each image. Based on their search, the gallery will return any images that match their search query.
 
-### Screenshots
+### Screenshot
 
 ![Interactive gallery screen shot](https://jennifer-carey.github.io/techdegree-project-5/images/screenshots/gallery-mockup.jpg)
 
