@@ -8,7 +8,7 @@ Using the search bar, the user can search through the images based on the captio
 
 ### Screenshots
 
-[![Interactive gallery screen shot]](https://jennifer-carey.github.io/techdegree-project-5/images/screenshots/gallery-mockup.jpg)
+![Interactive gallery screen shot](https://jennifer-carey.github.io/techdegree-project-5/images/screenshots/gallery-mockup.jpg)
 
 ### Built With
 
